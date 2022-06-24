@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @DaviDDR19
-- 👀 I’m interested in JS and Python.
-- 🌱 I’m currently learning JS and CSS
+Olá, eu sou o Davi Dias!
 
-<!---
-DaviDDR19/DaviDDR19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Meus hobbies
+
+- Ler;
+- Jogar videogame;
+- Me aventurar;
+
+## Estou estudando
+
+- CSS;
+- JS;
+- Python;
+- MySQL;
+
+## Meus contatos
+
+- Instagram: daviddr_18
+- Email: davi120500@gmail.com
